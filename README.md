@@ -10,8 +10,6 @@
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=webnewshow&theme=xcode" /> </div>
 <!-- 连续打卡 -->
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=webnewshow" /> </div>
-<!-- 社交属性 -->
-<div align="center"> <img src="[https://stats.justsong.cn/api/csdn?id=weixin_50915462](https://stats.justsong.cn/api/github?username=webnewshow)"> </div>
 <!--
 **webnewshow/webnewshow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
