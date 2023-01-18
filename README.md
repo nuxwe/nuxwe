@@ -2,7 +2,7 @@ ol-track: 一个基于ol`v6`的底图轨迹运动插件
 
 `npm i ol-track`
 
-image-marke-mobile: 一个移动端的图片标记插件
+image-mark-mobile: 一个移动端的图片标记插件
 
 `npm i image-marke-mobile`
 
